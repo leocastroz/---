@@ -27,7 +27,7 @@ Bem-vindo ao meu projeto Hackintosh! Aqui estão as configurações do meu compu
 
 O projeto com a EFI completa e as instruções de configuração está disponível no seguinte repositório GitHub:
 
-[EFI Hackintosh para Ryzen 3 2200G e RX 5500 8GB](https://github.com/leocastroz/EFI)
+[EFI Hackintosh para Ryzen 3 2200G e RX 5500 8GB](https://github.com/leocastroz/EFI).
 
 Sinta-se à vontade para conferir e utilizar a configuração para criar o seu próprio Hackintosh!
 
